@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Whispering Pines Trail",
+      "difficulty": "Moderate",
+      "location": "Pacific Northwest",
+      "gear": "Backcountry Blaze Backpack & Jetpack"
+    },
+    {
+      "name": "Sunset Ridge Loop",
+      "difficulty": "Easy",
+      "location": "California Foothills",
+      "gear": "Invisibility Cloak for wildlife viewing"
+    },
+    {
+      "name": "Alpine Ascent Peak",
+      "difficulty": "Hard",
+      "location": "Rocky Mountains",
+      "gear": "Summit Pro X Skis for snowy terrain"
+    },
+    {
+      "name": "Fog Valley Forest Path",
+      "difficulty": "Moderate",
+      "location": "Oregon Coast",
+      "gear": "Invisibility Cloak and Hiking Poles"
+    },
+    {
+      "name": "Glacier Crest Ridge",
+      "difficulty": "Hard",
+      "location": "Northern Rockies",
+      "gear": "Summit Pro X Skis & Thermal Layers"
+    }
+  ]

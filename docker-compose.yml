@@ -1,0 +1,17 @@
+version: '3.9'
+
+services:
+  backend:
+    build:
+      context: ./backend  # The directory containing your backend Dockerfile
+      dockerfile: Dockerfile  # Adjust if the Dockerfile name is different
+    ports:
+      - "8000:8000"  # Exposes the backend API on port 5000
+
+  frontend:
+    build: ./frontend
+    container_name: react-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
